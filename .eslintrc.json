@@ -24,7 +24,10 @@
         "import/prefer-default-export": "off",
         "react/jsx-indent": [
             "error",
-            4
-        ]
+            "off"
+        ],
+        "indent": "off",
+        "no-unused-expressions": "off",
+        "no-unused-vars": "off"
     }
 }
